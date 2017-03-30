@@ -1,6 +1,3 @@
-javascript:
-  enabled: true
-
 eslint:
   config_file: MyCase/.eslintrc
   enabled: true
