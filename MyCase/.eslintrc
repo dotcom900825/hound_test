@@ -3,10 +3,6 @@
     "jest": true
   },
   "extends": "airbnb",
-  "plugins": [
-    "react",
-    "react-native"
-  ],
   "ecmaFeatures": {
     "jsx": true
   },
