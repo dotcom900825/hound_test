@@ -1,8 +1,0 @@
-javascript:
-  enabled: true
-
-eslint:
-  config_file: MyCase/.eslintrc
-  enabled: true
-
-fail_on_violations: true
