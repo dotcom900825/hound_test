@@ -3,6 +3,6 @@ javascript:
 
 eslint:
   config_file: MyCase/.eslintrc
-  enabled: false
+  enabled: true
 
-fail_on_violations: false
+fail_on_violations: true
