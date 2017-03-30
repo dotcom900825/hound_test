@@ -1,4 +1,4 @@
-a = 123;
+let a = 123;
 const b = function() {
   a = 456;
 };
