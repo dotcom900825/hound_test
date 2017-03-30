@@ -1,5 +1,5 @@
 javascript:
-  enabled: false
+  enabled: true
 
 eslint:
   config_file: .eslintrc
