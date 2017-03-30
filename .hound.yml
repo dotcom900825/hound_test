@@ -1,0 +1,11 @@
+javascript:
+  enabled: false
+
+eslint:
+  config_file: ./MyCase/.eslintrc
+  enabled: true
+
+jshint:
+  enabled: false
+
+fail_on_violations: true
